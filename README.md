@@ -1,3 +1,3 @@
 # cpp
 
-Labolatory excersises
+Labolatory excersises from C++
